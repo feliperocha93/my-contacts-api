@@ -17,12 +17,13 @@ TODO: Put more information here
 
 ## Main Lessons 📑👩🏿‍🎓
 TODO: Put more information here
-
+- ExpressJs
+- singleton pattern
+- repository pattern
 ## Other Lessons 🔖😲
 TODO: Put more information here
 - how to use npm hooks
 - by convention, controllers name must by pascal case
-- Singleton pattern
 
 ##
 
