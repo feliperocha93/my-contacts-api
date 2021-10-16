@@ -6,7 +6,13 @@
   "repository": "https://github.com/feliperocha93/my-contacts-api",
   "author": "Felipe Rocha de Lucena",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
   }
 }

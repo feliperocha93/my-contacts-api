@@ -18,6 +18,10 @@ TODO: Put more information here
 ## Main Lessons 📑👩🏿‍🎓
 TODO: Put more information here
 
+## Other Lessons 🔖😲
+TODO: Put more information here
+- how to use npm hooks
+
 ##
 
 <img align="center" alt="Node" title="Node" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
