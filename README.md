@@ -20,6 +20,8 @@ TODO: Put more information here
 - ExpressJs
 - singleton pattern
 - repository pattern
+- middlewares
+
 ## Other Lessons 🔖😲
 TODO: Put more information here
 - how to use npm hooks
