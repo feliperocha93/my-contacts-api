@@ -27,6 +27,7 @@ TODO: Put more information here
 TODO: Put more information here
 - how to use npm hooks
 - by convention, controllers name must by pascal case
+- security with uuid
 - how to install extensios in database with sql
 - how to use foreign key
 - protect from sql injection
