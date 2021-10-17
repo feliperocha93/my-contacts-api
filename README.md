@@ -29,6 +29,7 @@ TODO: Put more information here
 - by convention, controllers name must by pascal case
 - how to install extensios in database with sql
 - how to use foreign key
+- protect from sql injection
 
 ##
 
