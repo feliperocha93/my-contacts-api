@@ -1,35 +1,35 @@
 # My Contacts API 📚💻🎓
-TODO: Put more information here
-API to store contacts.
-It was done in [JStack](https://jstack.com.br/]) course, module "Node.js with Express", translated from Portuguese, *Node.js com Express*.
+This is an API to store contacts. It was done in [JStack](https://jstack.com.br/]) course, module "Node.js with Express", translated from Portuguese, *Node.js com Express*.
 
 ## Running the app 🏃🏼‍♂🔥
 ```
-$ git clone https://github.com/feliperocha93/node-first-api.git
+$ git clone https://github.com/feliperocha93/my-contacts-api.git
 
 $ cd my-contacts-api
 
-$ node src/index.js
+$ yarn install
+
+$ yarn start
 ```
 
 ## Goals ⚽🥅
-TODO: Put more information here
+Learn how to make a NodeJs API and how to correctly use some of the most used development tools on the market.
 
 ## Main Lessons 📑👩🏿‍🎓
-TODO: Put more information here
-- ExpressJs
+- expressjs
 - singleton pattern
 - repository pattern
 - middlewares
 - docker
 
 ## Other Lessons 🔖😲
-TODO: Put more information here
 - how to use npm hooks
-- by convention, controllers name must by pascal case
+- use and configure eslint
+- by convention, controllers name must by singular and pascal case
 - security with uuid
 - how to install extensios in database with sql
 - how to use foreign key
+- basic sql commands
 - protect from sql injection
 
 ##
