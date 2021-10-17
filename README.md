@@ -21,11 +21,14 @@ TODO: Put more information here
 - singleton pattern
 - repository pattern
 - middlewares
+- docker
 
 ## Other Lessons 🔖😲
 TODO: Put more information here
 - how to use npm hooks
 - by convention, controllers name must by pascal case
+- how to install extensios in database with sql
+- how to use foreign key
 
 ##
 
