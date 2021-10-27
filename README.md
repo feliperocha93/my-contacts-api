@@ -31,6 +31,7 @@ Learn how to make a NodeJs API and how to correctly use some of the most used de
 - how to use foreign key
 - basic sql commands
 - protect from sql injection
+- cors
 
 ##
 
